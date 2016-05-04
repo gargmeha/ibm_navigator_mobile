@@ -20,3 +20,4 @@ https://play.google.com/store/apps/details?id=com.ibm.ecm.navigator&hl=en
 
 Screenshots:
 
+https://drive.google.com/open?id=0B25JcpedG0Jva2pLY2RRclNhcGc
