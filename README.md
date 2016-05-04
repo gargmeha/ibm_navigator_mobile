@@ -1,5 +1,7 @@
 # ibm_navigator_mobile
 
+IBM Navigator Mobile app
+
 IBM Navigator Mobile, for use with on-prem IBM P8 repositories, extends sync capabilities to 
 business content in a service that offers a full range of collaboration options. 
 
